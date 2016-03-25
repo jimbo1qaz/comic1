@@ -1,0 +1,9 @@
+ @font-face {
+    font-family: manicDepressive;
+    src: url(manic-depressive.woff);
+}
+
+body {
+	/*font: 16pt/0.5em "manic-depressive";*/
+	font: 16pt/0.5em manicDepressive;
+}
